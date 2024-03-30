@@ -1,3 +1,7 @@
 [submodule "quickstart/themes/hermit-V2"]
 	path = quickstart/themes/hermit-V2
 	url = https://github.com/1bl4z3r/hermit-V2.git
+[submodule "quickstart/themes/themes/hermit-V2"]
+	path = quickstart/themes/themes/hermit-V2
+	url = https://github.com/1bl4z3r/hermit-V2.git
+	branch = staging
