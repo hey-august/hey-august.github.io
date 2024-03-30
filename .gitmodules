@@ -5,3 +5,6 @@
 	path = quickstart/themes/themes/hermit-V2
 	url = https://github.com/1bl4z3r/hermit-V2.git
 	branch = staging
+[submodule "quickstart/themes/hugo-theme-console"]
+	path = quickstart/themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
